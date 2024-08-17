@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://af.linkedin.com/in/jafar-fahimi-54a30022b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://af.linkedin.com/in/jafar-fahimi-54a30022b" height="30" width="40" /></a>
+<a href="https://af.linkedin.com/in/jafar-fahimi-54a30022b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://af.linkedin.com/in/jafar-fahimi-54a30022b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/stackoverflow.com/users/21382492/jafar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow.com/users/21382492/jafar" height="30" width="40" /></a>
 </p>
 
