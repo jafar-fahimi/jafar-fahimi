@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jafar Fahimi</h1>
 <h3 align="center">A passionate frontend developer & QA Tester from Afghanistan</h3>
 
-- 🔭 I’m currently working on [Writing Automation Scripts for Aseelapp](aseelapp.com/do-good)
+- 🔭 I’m currently working as a Support Engineer at Whale Cloud.
 
 - 🌱 I’m currently learning **Node.js**
 
